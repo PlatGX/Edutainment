@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.1",
+	"FriendlyName": "Simple Path Tracer",
+	"Description": "This C++ Plugin is a collection of functions and blueprints for drawing paths and borders in editor and at runtime, with lots of settings.",
+	"Category": "Gameplay",
+	"CreatedBy": "Andrew Esenin",
+	"CreatedByURL": "https://www.unrealengine.com/marketplace/en-US/profile/Andrew+Esenin?count=20&sortBy=effectiveDate&sortDir=DESC&start=0",
+	"DocsURL": "https://github.com/AndrewEsenin/Simple_Path_Tracer_Documentation/blob/main/README.md",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/6133f776d65d40a694b5fbb01dc1141a",
+	"SupportURL": "andrewesenin27@gmail.com",
+	"EngineVersion": "5.6.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "SimplePathTracer",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	]
+}
