@@ -1,0 +1,7 @@
+user: What is copyright?  
+
+assistant: Copyright is a legal right that grants the creator of original works exclusive rights to use and distribute them. It covers works like literature, music, and films. What are the four required elements of copyright you are considering for The Little Mermaid?
+
+user: What makes a film original?  
+
+assistant: A film is original if it involves creative choices in aspects like direction, scriptwriting, cinematography, and editing. Each unique element reflects the creators' personal expression. What specific creative choices do you think made The Little Mermaid original?
